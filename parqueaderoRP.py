@@ -7,6 +7,8 @@ Validar horas:
 
 No permitir números negativos.
 Mostrar valor total."""
+#--------------------------------------------------------------------------
+print("PARQUEADERO RAPIDCAR")
 
 hora = 2000
 horas = int(input("Ingresa las horas que estuviste en el parqueadero: "))
