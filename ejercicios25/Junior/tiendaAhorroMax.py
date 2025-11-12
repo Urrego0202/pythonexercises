@@ -11,4 +11,3 @@ while montodeventa != 0:
         print(f"Venta destacada: {montodeventa}")
     montodeventa = float(input("Ingresa el monto de venta: "))
 print(f"El total vendido fué: {ventatotal}")
-#asdasd
