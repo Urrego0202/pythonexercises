@@ -12,3 +12,4 @@ while contador < vehiculo:
     else:
         print(f"Vehiculo par registrado {contador}")
     contador += 1
+print("Capacidad completa")    
